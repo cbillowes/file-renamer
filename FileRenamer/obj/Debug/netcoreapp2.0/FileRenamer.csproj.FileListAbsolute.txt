@@ -1,0 +1,11 @@
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\bin\Debug\netcoreapp2.0\FileRenamer.deps.json
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\bin\Debug\netcoreapp2.0\FileRenamer.runtimeconfig.json
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\bin\Debug\netcoreapp2.0\FileRenamer.runtimeconfig.dev.json
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\bin\Debug\netcoreapp2.0\FileRenamer.dll
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\bin\Debug\netcoreapp2.0\FileRenamer.pdb
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\obj\Debug\netcoreapp2.0\FileRenamer.csprojResolveAssemblyReference.cache
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\obj\Debug\netcoreapp2.0\FileRenamer.csproj.CoreCompileInputs.cache
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\obj\Debug\netcoreapp2.0\FileRenamer.AssemblyInfoInputs.cache
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\obj\Debug\netcoreapp2.0\FileRenamer.AssemblyInfo.cs
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\obj\Debug\netcoreapp2.0\FileRenamer.dll
+C:\Workspace\playground\glittered-ideas\FileRenamer\FileRenamer\obj\Debug\netcoreapp2.0\FileRenamer.pdb
